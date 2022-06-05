@@ -513,6 +513,8 @@ a{
 }
 .footer-social-container{
     margin-left: 70px;
+    align-items: center;
+    justify-content: center;
 }
 .footer-tittle{
     font-family: 'Roboto';
@@ -522,6 +524,7 @@ a{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--second-text-color);
+    margin-bottom: 20px;
 }
 
 /*--CONTACTS-- */
